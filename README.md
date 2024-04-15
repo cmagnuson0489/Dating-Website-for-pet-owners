@@ -1,6 +1,6 @@
 - This will be my repository for a dating website that I am currently building.
 
-- This website will be catered towards people who have pets and are looking for a romantic partner with the same interests as well.
+- This website will be catered towards people who have pets and are looking to meet someone with the same interests as well.
 
 - I am contemplating using Mongo DB for my Database needs.
 
