@@ -12,4 +12,14 @@ const Chat = () => {
       setMessages((prevMessages) => [...prevMessages, message]);    
     });
   }, []);
-}
+
+  const sentMessage = () => {
+    socket.emit('sentMessage', message);
+    setMessage('');
+  };
+
+  return(
+    <div>
+      
+    </div>
+  )
